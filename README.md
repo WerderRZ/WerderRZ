@@ -1,4 +1,11 @@
-## Hi there 👋
+## Привет! 👋
+
+📫 Мои контакты :
+<div id="badges">
+  <a href="https://t.me/WerderR">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <!--
 **WerderRZ/WerderRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
