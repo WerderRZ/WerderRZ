@@ -1,13 +1,5 @@
 ## Привет! 👋
 
-📫 Мои контакты :
-<div id="badges">
-  <a href="https://t.me/WerderR">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-
----
 💻 Технологии : <br/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
